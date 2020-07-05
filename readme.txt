@@ -6,7 +6,6 @@ https://coinmarketcap.com/
 
 Also you must set terms in the data/in/terms.txt For example:
 Market
-Пошук
 coin
 
 Now you can start application, for that execute build.bat
